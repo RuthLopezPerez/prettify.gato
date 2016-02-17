@@ -33,4 +33,31 @@ header{
 	margin: 5px;
 }
 
-	
+#chica{
+	height: 200px;
+
+}
+.forma{
+	width: 50px;
+}
+#gato{
+	background: #FFFFFF;
+}
+
+.4gatos{
+	padding-left: 50px;
+}
+
+.gatos{
+	border-radius: 200px;
+	width: 50px;
+}
+
+.tama{
+	width: 50px;
+
+}
+
+footer{
+	background: #DDDDDD;
+}
